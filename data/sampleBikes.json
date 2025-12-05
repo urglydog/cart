@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Xe đạp thể thao Trek Domane SL 5",
+    "price": 15000000,
+    "status": "còn hàng",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500",
+    "description": "Xe đạp thể thao cao cấp với khung carbon nhẹ, phù hợp cho đường dài và đua xe."
+  },
+  {
+    "id": "2",
+    "name": "Xe đạp địa hình Giant Talon 29",
+    "price": 8500000,
+    "status": "còn hàng",
+    "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=500",
+    "description": "Xe đạp địa hình với bánh 29 inch, hệ thống phanh đĩa, phù hợp cho địa hình gồ ghề."
+  },
+  {
+    "id": "3",
+    "name": "Xe đạp thành phố Fuji Absolute 1.9",
+    "price": 6500000,
+    "status": "còn hàng",
+    "image": "https://images.unsplash.com/photo-1502744688674-c619d1586c4a?w=500",
+    "description": "Xe đạp thành phố tiện lợi, thiết kế gọn nhẹ, phù hợp cho đi lại hàng ngày."
+  },
+  {
+    "id": "4",
+    "name": "Xe đạp gấp Dahon Mariner D8",
+    "price": 12000000,
+    "status": "còn hàng",
+    "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=500",
+    "description": "Xe đạp gấp cao cấp, dễ dàng mang theo, phù hợp cho người đi làm và du lịch."
+  },
+  {
+    "id": "5",
+    "name": "Xe đạp trẻ em Royalbaby RB14-6",
+    "price": 2500000,
+    "status": "còn hàng",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500",
+    "description": "Xe đạp trẻ em an toàn, có bánh phụ, phù hợp cho trẻ từ 4-8 tuổi."
+  },
+  {
+    "id": "6",
+    "name": "Xe đạp điện Xiaomi Mi Electric",
+    "price": 18000000,
+    "status": "hết hàng",
+    "image": "https://images.unsplash.com/photo-1502744688674-c619d1586c4a?w=500",
+    "description": "Xe đạp điện thông minh, pin lithium, quãng đường lên đến 45km, tích hợp app."
+  },
+  {
+    "id": "7",
+    "name": "Xe đạp leo núi Specialized Rockhopper",
+    "price": 9500000,
+    "status": "còn hàng",
+    "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=500",
+    "description": "Xe đạp leo núi chuyên nghiệp, hệ thống treo trước, phù hợp cho địa hình khó."
+  },
+  {
+    "id": "8",
+    "name": "Xe đạp đường phố Cannondale CAAD13",
+    "price": 22000000,
+    "status": "còn hàng",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500",
+    "description": "Xe đạp đường phố cao cấp, khung nhôm siêu nhẹ, phù hợp cho đua xe và tập luyện."
+  },
+  {
+    "id": "9",
+    "name": "Xe đạp BMX Mongoose Legion L100",
+    "price": 5500000,
+    "status": "còn hàng",
+    "image": "https://images.unsplash.com/photo-1502744688674-c619d1586c4a?w=500",
+    "description": "Xe đạp BMX chuyên nghiệp, bền bỉ, phù hợp cho trick và biểu diễn."
+  },
+  {
+    "id": "10",
+    "name": "Xe đạp touring Surly Long Haul Trucker",
+    "price": 16000000,
+    "status": "hết hàng",
+    "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=500",
+    "description": "Xe đạp touring chuyên nghiệp, thiết kế cho hành trình dài, có giá đỡ hành lý."
+  }
+]
+
